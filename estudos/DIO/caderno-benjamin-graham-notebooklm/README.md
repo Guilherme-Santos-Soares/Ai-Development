@@ -288,14 +288,14 @@ O conceito central da filosofia de Graham é a **Margem de Segurança**, definid
 |-------|-----------|
 | **Value Investing** | Estratégia de investimento baseada na compra de ativos que estão sendo negociados abaixo do seu valor intrínseco estimado |
 | **Valor Intrínseco** | O valor "real" ou fundamental de uma empresa, calculado a partir de seus dados financeiros, independentemente do preço de mercado |
-| **Margem de Segurança** | A diferença entre o valor intrínseco calculado e o preço pago pela ação — quanto maior, menor o risco de perda |
+| **Margem de Segurança** | A diferença entre o valor intrínseco calculado e o preço pago pela ação, quanto maior, menor o risco de perda |
 | **Mr. Market** | Metáfora criada por Graham para descrever o mercado como um parceiro emocional e irracional que oferece preços diferentes a cada dia |
 | **Investidor Defensivo** | Perfil de investidor que prioriza segurança e simplicidade, buscando preservar capital com o mínimo de esforço e risco |
 | **Investidor Empreendedor** | Perfil que dedica tempo e análise ativa para encontrar oportunidades subvalorizadas no mercado |
-| **P/L (Preço/Lucro)** | Indicador que compara o preço de mercado de uma ação com o lucro por ação — Graham sugeria P/L máximo de 15 |
-| **P/VP (Preço/Valor Patrimonial)** | Compara o preço de mercado com o patrimônio líquido por ação — Graham sugeria P/VP máximo de 1,5 |
+| **P/L (Preço/Lucro)** | Indicador que compara o preço de mercado de uma ação com o lucro por ação, Graham sugeria P/L máximo de 15 |
+| **P/VP (Preço/Valor Patrimonial)** | Compara o preço de mercado com o patrimônio líquido por ação, Graham sugeria P/VP máximo de 1,5 |
 | **Análise Fundamentalista** | Método de avaliação de empresas baseado em dados financeiros reais (balanços, resultados, dividendos) |
-| **Dividendos** | Parcela do lucro da empresa distribuída aos acionistas — Graham valorizava histórico consistente de pagamentos |
+| **Dividendos** | Parcela do lucro da empresa distribuída aos acionistas, Graham valorizava histórico consistente de pagamentos |
 
 ---
 
@@ -333,9 +333,9 @@ Use estes prompts sempre que quiser revisar ou aprofundar o estudo sobre Graham 
 
 ## 🛠️ Ferramentas Utilizadas
 
-- [NotebookLM](https://notebooklm.google.com/) — curadoria e análise das fontes com IA
-- [GitHub](https://github.com/) — documentação e portfólio
-- [DIO](https://www.dio.me/) — plataforma do bootcamp
+- [NotebookLM](https://notebooklm.google.com/) - curadoria e análise das fontes com IA
+- [GitHub](https://github.com/) - documentação e portfólio
+- [DIO](https://www.dio.me/) - plataforma do bootcamp
 
 ---
 
