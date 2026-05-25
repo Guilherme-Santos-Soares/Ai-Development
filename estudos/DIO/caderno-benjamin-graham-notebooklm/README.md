@@ -1,10 +1,10 @@
-# 📚 Caderno Temático: Benjamin Graham — O Pai do Value Investing
+# 📚 Caderno Temático: Benjamin Graham - O Pai do Value Investing
 
 > Projeto desenvolvido como parte do bootcamp da DIO, utilizando o NotebookLM como ferramenta de aprendizagem ativa e curadoria inteligente de conhecimento.
 
 ---
 
-## 📌 Seção 1 — Contexto e Objetivos
+## 📌 Seção 1 - Contexto e Objetivos
 
 ### Por que Benjamin Graham?
 
@@ -23,7 +23,7 @@ Escolhi Benjamin Graham como tema central deste caderno porque meu objetivo é *
 
 ---
 
-## 🔍 Seção 2 — Curadoria de Fontes
+## 🔍 Seção 2 - Curadoria de Fontes
 
 As fontes foram selecionadas para cobrir três dimensões: **contexto histórico e biográfico**, **aplicação prática dos métodos** e **validação acadêmica** da abordagem de Graham. Todas foram carregadas no NotebookLM para alimentar o caderno temático.
 
@@ -48,13 +48,13 @@ As fontes foram selecionadas para cobrir três dimensões: **contexto histórico
 
 ---
 
-## 🧪 Seção 3 — Engenharia de Prompts e Cicatrizes
+## 🧪 Seção 3 - Engenharia de Prompts e Cicatrizes
 
 > Esta seção documenta as perguntas estratégicas feitas ao NotebookLM, as respostas obtidas, ajustes realizados e dificuldades encontradas. O objetivo é mostrar o raciocínio por trás dos resultados, não apenas o que funcionou, mas o que precisou ser corrigido.
 
 ---
 
-### Prompt 1 — Contextualização geral
+### Prompt 1 - Contextualização geral
 
 **Pergunta original:**
 ```
@@ -101,7 +101,7 @@ Você gostaria que eu criasse um **questionário** sobre os principais critério
 
 ---
 
-### Prompt 2 — Aprofundamento na filosofia
+### Prompt 2 - Aprofundamento na filosofia
 
 **Pergunta original:**
 ```
@@ -147,7 +147,7 @@ Gostaria que eu criasse um quiz para testar seu conhecimento sobre o cálculo do
 
 **Avaliação:** A reposta foi **ruim*, estrutura muito confusa, calculos misturados em meio aos textos.
 
-### Prompt 3 — A Fórmula de Graham
+### Prompt 3 - A Fórmula de Graham
 
 **Pergunta original:**
 ```
@@ -199,7 +199,7 @@ Gostaria que eu aplicasse esses critérios de Graham para analisar algum setor e
 
 ---
 
-### 🩹 Cicatrizes — Dificuldades Encontradas
+### 🩹 Cicatrizes - Dificuldades Encontradas
 
 | Dificuldade | O que aconteceu | Como resolvi |
 |-------------|-----------------|--------------|
@@ -209,7 +209,7 @@ Gostaria que eu aplicasse esses critérios de Graham para analisar algum setor e
 
 ---
 
-## 📖 Seção 4 — Miniguia de Estudo
+## 📖 Seção 4 - Miniguia de Estudo
 
 > Resultado final consolidado: resumos, glossário e prompts reutilizáveis para revisões futuras.
 
@@ -222,7 +222,7 @@ Gostaria que eu aplicasse esses critérios de Graham para analisar algum setor e
 Benjamin Graham (1894-1976) foi um influente economista e investidor, amplamente reconhecido como o **"pai do *value investing*"** e o maior analista de investimentos de todos os tempos. Autor dos clássicos "O Investidor Inteligente" e "Security Analysis", Graham introduziu conceitos fundamentais como o **valor intrínseco** e a **margem de segurança**. Ele é mundialmente celebrado por ter sido o **mentor intelectual de Warren Buffett** e por transformar a análise de ativos em uma disciplina rigorosa e moderna.
 ```
 
-#### Filosofia Geral — Value Investing
+#### Filosofia Geral - Value Investing
 ```
  A filosofia de **Value Investing** (investimento em valor), desenvolvida por Benjamin Graham, fundamenta-se na premissa de que o investimento deve ser conduzido com o rigor e a disciplina de um negócio comercial. Esta abordagem busca distanciar o investidor das flutuações emocionais do mercado, focando em fatos mensuráveis e na análise fundamentalista.
 
