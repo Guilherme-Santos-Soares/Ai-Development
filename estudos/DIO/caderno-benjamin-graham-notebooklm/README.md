@@ -44,8 +44,7 @@ As fontes foram selecionadas para cobrir três dimensões: **contexto histórico
 | 6 | 5 Ensinamentos do investidor Benjamin Graham que valem ouro | [Ler](https://content.btgpactual.com/blog/investimentos/5-ensinamentos-do-investidor-benjamin-graham) | Síntese objetiva dos principais ensinamentos práticos de Graham, publicada por uma das maiores instituições financeiras do Brasil (BTG Pactual) |
 | 7 | Teste da abordagem de Benjamin Graham para o mercado brasileiro | [Ler](https://revistas.pucsp.br/index.php/CAFI/article/view/65982) | Artigo acadêmico da PUC-SP que valida (ou questiona) a aplicabilidade dos critérios de Graham no contexto da bolsa brasileira - importante visão crítica |
 | 8 | Benjamin Graham: Biografia e Métodos de Investimentos | [Ler](https://www.c6bank.com.br/blog/benjamin-graham) | Visão geral completa sobre Graham publicada pelo C6 Bank, boa fonte de revisão e consolidação dos conceitos |
-| 9 | PDF - O Investidor Inteligente - Benjamin Graham | |
-
+| 9 | PDF - O Investidor Inteligente - Benjamin Graham | [Abrir PDF](./O%20Investidor%20Inteligente%20-%20Benjamin%20Graham.pdf) | Obra clássica de Benjamin Graham, escolhida por apresentar os fundamentos do investimento em valor, conceitos como margem de segurança e estratégias para análise racional de ativos |
 ---
 
 ## 🧪 Seção 3 - Engenharia de Prompts e Cicatrizes
